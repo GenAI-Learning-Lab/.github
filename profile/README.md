@@ -7,4 +7,4 @@
 ## Key Contributors
 
 ## Featured Projects
-📘 [GenAI Playbook 2025](https://github.com/GenAI-Learning-Lab/genai-playbook-2025)
+📘 [llm-lab](https://github.com/GenAI-Learning-Lab/llm-lab)
