@@ -6,5 +6,6 @@
 
 ## Key Contributors
 
-## Featured Projects
+## Repositories
 📘 [llm-lab](https://github.com/GenAI-Learning-Lab/llm-lab)
+📘 [deeplearning-lab](https://github.com/GenAI-Learning-Lab/deeplearning-lab)
